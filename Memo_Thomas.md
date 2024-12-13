@@ -3,7 +3,7 @@
 - [x] Test statique ✅ (test du code pur avant qu'il ne soit lancé. On se penche sur le code avant qu'il soit déployé)
 - [x] Test dynamique ✅ (test qui impose l'exécution de l'objet de test (du code))
 - [x] Test de régression ✅ (afin d'éviter l'introduction de bug après l'ajout d'une fonctionnalité. Un type de test lié au changement pour détecter si des défauts ont été introduits ou découverts dans des zones inchangées du logiciel. Qu'aucune conséquence négative n'a été causée par une modification (correctif par exemple)) 
-- [x] Une revue/review ✅ (Un dev montre son code a des personnes, c'est une review) [Image ici](assets/revue formelle.png)
+- [x] Une revue/review ✅ (Un dev montre son code a des personnes, c'est une review) [Image ici](assets/revue_formelle.png)
 - [x] Rôle du scribe ✅ (C'est la personne qui va s'assurer que la prise de note est lisible et compréhensible) [Image ici](assets/scribe.png)
 - [x] Equipe intégrée ✅ (Même espace de travail, physique ou virtuel) 
 - [x] Représentant métier ✅ (Description du métier de chacun des domaines) 
