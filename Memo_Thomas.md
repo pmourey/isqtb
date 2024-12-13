@@ -1,0 +1,30 @@
+- [x] ATDD ✅ (Acceptance Test-Driven Development, développement piloté par les tests d'acceptation)
+- [x] Shift left ✅  (rédiger les cas de tests avant l'écriture du code, utiliser l'intégration continue. C'est une approche de développement logiciel qui consiste à démarrer les activités de test dès le début du processus de développement pour corriger les défauts plus tôt et réduire les coûts.)
+- [x] Test statique ✅ (test du code pur avant qu'il ne soit lancé. On se penche sur le code avant qu'il soit déployé)
+- [x] Test dynamique ✅ (test qui impose l'exécution de l'objet de test (du code))
+- [x] Test de régression ✅ (afin d'éviter l'introduction de bug après l'ajout d'une fonctionnalité. Un type de test lié au changement pour détecter si des défauts ont été introduits ou découverts dans des zones inchangées du logiciel. Qu'aucune conséquence négative n'a été causée par une modification (correctif par exemple)) 
+- [x] Une revue/review ✅ (Un dev montre son code a des personnes, c'est une review) [Image ici](revue formelle.png)
+- [x] Rôle du scribe ✅ (C'est la personne qui va s'assurer que la prise de note est lisible et compréhensible) [Image ici](scribe.png)
+- [x] Equipe intégrée ✅ (Même espace de travail, physique ou virtuel) 
+- [x] Représentant métier ✅ (Description du métier de chacun des domaines) 
+- [x] Tests basés sur l'expérience ✅ (Test basé sur l'expérience, les connaissances et l'intuition du testeur.)
+- [x] Couverture EP 100% ✅ (un corps est complètement couvert (100%) quand on a mit la couverture de la tête aux pieds. Si on se découvre la tête, 90%) 
+- [x] Couverture de l'analyse des valeurs limites à deux valeurs ✅ (valeur inférieure et supérieure à tester. Exemple sur un site demandant d'être majeur, on teste la valeur limite inférieure à 17 et supérieure à 19. A 3 valeurs, la 3eme sera la valeur exacte. (donc ici 18.))
+- [x] Estimation d'erreurs ✅ (Une technique de test selon laquelle les tests sont dérivés sur la base de la connaissance du testeur des échecs passés, ou de la connaissance générale des modes de défaillance)
+- [x] Test de branche ✅ (Les tests de branche sont un type de test en boîte blanche utilisé pour tester chaque branche possible. Chaque système peut être une branche indépendamment des autres et forment un arbre ensemble)
+- [x] Test exploratoire ✅ (Vous testez sans forcément avoir de document de spécification qui me dit quoi tester. On se base sur l'expérience du testeur en dynamique. Exemple : Les jeux d'alpha et beta des jeux isart. Tester, trouver des bugs et créer des tests cases)
+- [x] Critère de sortie ✅ (Un objectif qu'on a défini et tant qu'on l'a pas réalisé, la tâche est pas complétée. C'est le résultat attendu. Entry criteria)
+- [x] Critère d'entrée ✅ (A contrario, ça va être toutes les conditions à mettre en place avant de pouvoir commencer à tester. Faut se référer a exit criteria dans le glossaire. Setup d'environnement... etc) 
+- [x] Technique d'estimation en 3 points ✅ (L'estimation est alors calculée comme la moyenne pondérée de ces 3 estimations (dans l’exemple ci-après, pour les puristes, sur la base d'une distribution Bêta) : Ce= (Optimiste + Pessimiste + 4x le plus probable)/6.)
+- [x] Quadrant de test agile ✅ (ça aide a prioriser les tests. [Image ici](quadrant_test_agile.png) )
+- [x] Burndown chart ✅ (Un outil qui va nous aider visuellement à voir notre progression dans le projet) [Image ici](SampleBurndownChart.png)
+- [x] Outil de préparation de données ✅ (Logiciels et applications conçus pour nettoyer transformer et organiser les données brut en vue de leur analyse. Exemple tout simple, on a un fichier excel avec tout un tas de termes différents (sheets, jeux de données valeurs). Excel est typiquement un outil. On peut filtrer avec lui, créer des tables de comparaisons etc). Exemple, tout le script d'une série a été écrit sur excel, pour faciliter la lecture aux acteurs, on va demander a excel de filtrer toutes les lignes de texte de l'acteur A.)
+- [x] Environnements de test ✅ (environnement contenant du hardware, simultateur, software ou autre support requis pour faire les tests. C'est configuré par les testeurs apparemment) 
+- [x] Règles métiers ✅ (Les règles métiers, ou règles de gestion d’une entreprise, sont l’ensemble des principes qui, une fois appliqués, ne nécessitent pas de prise de décision pour leur mise en application. La décision a été prise en amont : elle n’a pas besoin d’être validée à nouveau à chaque cas similaire qui se présente. Testable et mesurable, l’ensemble des règles métiers sert donc à cadrer et limiter les actions prises par les équipes métiers pour qu’elles suivent la stratégie de l’entreprise. Conséquence : les processus sont plus fluides, car automatisés, et ils font gagner du temps aux équipes métiers.)
+- [x] User story ✅  (exemple, je veux que l'utilisateur puisse créer un compte sécurisé avec mdp etc. La user story va être de créer un système où l'utilisateur va pouvoir créer son compte depuis une page de connexion. Ca ne concerne qu'un seule fonctionnalité à la fois. Plusieurs user story constituent un product backlog)
+- [ ] Produit d'activité ❌ 
+- [ ] Shift-right ❌
+- [ ] DevOps ❌
+- [ ] Transfert de risques ❌
+- [ ] gestion de la configuration (CM) ❌ 
+
